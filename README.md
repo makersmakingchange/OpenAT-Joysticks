@@ -20,7 +20,7 @@ The hardware, software, and documentation are released under licenses compatible
 | Cedar Mini Joystick              | 0.9             | Joystick / Mouse MVP|  https://github.com/makersmakingchange/Cedar-Mini-Joystick  
 | Birch Mini Joystick             | 0.2             | Joystick / Mouse MVP| https://github.com/makersmakingchange/Birch-Mini-Joystick
 | Ivy Nunchuck Joystick Adapter     | 0.1             | Joystick / Mouse MVP | https://github.com/makersmakingchange/Ivy-Nunchuck-Adapter | Willow               | n/a             |  Planned  | |             |
-| Wheelchair Bluetooth Adapter | x.y     |  Joystick MVP  | https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter  |
+| Wheelchair Bluetooth Adapter | 0.1     |  Joystick MVP  | https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter  |
 | OpenAT Joystick Software | 0.1 | MVP | 
 
 ### Oak Compact Joystick
@@ -40,7 +40,7 @@ The Wheelchair Bluetooth Joystick Adapter enables a user to use their powerchair
 
 
 ## Acknowledgements
-This project is being funded through a Government of Canada Assitive Technology Project (ATP) grant.
+This project is being funded through the Government of Canada's [Accessible Technology Program (ATP)](https://ised-isde.canada.ca/site/accessible-technology-program/en) with the goal of developing cost effective solutions to help people with disabilities better access the digital economy.
 
 ---
 
