@@ -19,7 +19,8 @@ The hardware, software, and documentation are released under licenses compatible
 | Oak Joystick                | 0.9             | Joystick / Mouse MVP | https://github.com/makersmakingchange/Oak-Compact-Joystick/tree/v0.9 |  
 | Cedar Mini Joystick              | 0.9             | Joystick / Mouse MVP|  https://github.com/makersmakingchange/Cedar-Mini-Joystick  
 | Birch Mini Joystick             | 0.2             | Joystick / Mouse MVP| https://github.com/makersmakingchange/Birch-Mini-Joystick
-| Ivy Nunchuck Joystick Adapter     | 0.1             | Joystick / Mouse MVP | https://github.com/makersmakingchange/Ivy-Nunchuck-Adapter | Willow               | n/a             |  Planned  | |             |
+| Ivy Nunchuck Joystick Adapter     | 0.1             | Joystick / Mouse MVP | https://github.com/makersmakingchange/Ivy-Nunchuk-Joystick-Adapter 
+| Willow               | n/a             |  Planned  | |             |
 | Wheelchair Bluetooth Adapter | 0.1     |  Joystick MVP  | https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter  |
 | OpenAT Joystick Software | 0.1 | MVP | 
 
