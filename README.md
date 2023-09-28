@@ -15,7 +15,7 @@ A limited number of these devices may be available at no-cost to people with dis
 |-----------------------------------|-----------------|-----------------------------------|-----------------|
 | Oak Compact Joystick              | 1.0             | Complete                          | https://github.com/makersmakingchange/Oak-Compact-Joystick         |  
 | Spruce Mini Joystick              | 1.0             | Complete                          | https://github.com/makersmakingchange/Spruce-Mini-Joystick         |
-| Ivy Nunchuck Joystick Adapter     | 1.0             | Complete                          | https://github.com/makersmakingchange/Ivy-Nunchuk-Joystick-Adapter |
+| Ivy Nunchuck Joystick Adapter     | 1.0             | Complete                          | [https://github.com/makersmakingchange/Ivy-Nunchuk-Joystick-Adapter](https://github.com/makersmakingchange/Ivy-Nunchuk-Joystick-Adaptor) |
 | Forest Joystick Mouse Hub         | 1.0             | Complete                          | https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub    |
 | OpenAT Joystick Software          | 1.0             | MVP; Requires further development | 
 | Cedar Mini Joystick               | 0.9             | Joystick / Mouse MVP              |  https://github.com/makersmakingchange/Cedar-Mini-Joystick  |
