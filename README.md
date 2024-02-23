@@ -8,8 +8,8 @@ If you have built any of the OpenAT Joysticks, you can provide feedback by filli
 A limited number of these devices may be available at no-cost to people with disabilities that reside within Canada. If you think this applies to you, please send an email to info@makersmakingchange.com.
 
 
-## Open AT Joystick Designs
-### Summary
+## Open AT Joystick Summary
+### Completed Designs
 
 | Name | Current Version | Status | MMC Library   | GitHub Repository |
 |-----------------------------------|-----------------|-----------------|------------------|-----------------|
@@ -17,11 +17,19 @@ A limited number of these devices may be available at no-cost to people with dis
 | [Spruce Mini Joystick](#spruce-mini-joystick)              | 1.0             | Complete| [Spruce Mini Joystick](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG) | [Spruce-Mini-Joystick](https://github.com/makersmakingchange/Spruce-Mini-Joystick)         |
 | [Ivy Nunchuck Joystick Adapter](#ivy-nunchuck-joystick-adaptor)     | 1.0             | Complete | [Ivy Nunchuck Joystick Adapter](https://www.makersmakingchange.com/s/product/ivy-nunchuck-joystick-adapter/01tJR0000009LBiYAM) | [Ivy-Nunchuck-Joystick-Adapter](https://github.com/makersmakingchange/Ivy-Nunchuck-Joystick-Adapter) |
 | [Forest Joystick Mouse Hub](#forest-joystick-mouse-hub)       | 1.0 | Complete |[Forest Joystick Mouse Hub](https://www.makersmakingchange.com/s/product/forest-joystick-mouse-hub/01tJR000000E4bdYAC) | [Forest-Joystick-Mouse-Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub)    |
+| [LipSync Sip and Puff Mouth Joystick](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) | 4.0 | Complete | [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) | [LipSync](https://github.com/makersmakingchange/LipSync)|
+
+
+### In Progress
+| Name | Current Version | Status | MMC Library   | GitHub Repository |
+|-----------------------------------|-----------------|-----------------|------------------|-----------------|
 | [Cedar Mini Joystick](#cedar-mini-joystick)               | 0.9             | Joystick / Mouse MVP              | n/a |[Cedar-Mini-Joystick](https://github.com/makersmakingchange/Cedar-Mini-Joystick)  |
 | [Birch Mini Joystick](#birch-mini-joystick)              | 0.2             | Joystick / Mouse MVP              | n/a |[Birch-Mini-Joystick](https://github.com/makersmakingchange/Birch-Mini-Joystick)|
 | [Wheelchair Bluetooth Joystick Adapter](#wheelchair-bluetooth-joystick-adapter)      | 0.1             | MVP; Requires further development | n/a|[Wheelchair Bluetooth Adapter](https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter)  |
 | OpenAT Joystick Software          | 1.0             | MVP; Requires further development | n/a| n/a
 | Willow Joystick                   | n/a             |  Planned  |                       |  |           |
+
+## Completed Designs
 
 ### Oak Compact Joystick
 The Oak Compact Joystick is a medium sized proportional joystick that can be used for adaptive gaming. It has range of motion of approximately ±25° and requires 525 grams-force to fully deflect. 
@@ -43,6 +51,16 @@ The Forest Hub enables a user to connect an analog joystick and one or more assi
 The Ivy Nunchuck Adapter enables a Nunchuck controller to be used as a USB HID Mouse or USB HID Gamepad. The Nunchuck controller provides a thumb joystick and two buttons in a graspable controller. The Ivy is directly compatible with the Xbox Adaptive Controller.
 
 <img src="https://github.com/makersmakingchange/Ivy-Nunchuck-Joystick-Adapter/raw/main/Photos/Ivy_Nunchuck_Joystick_Adapter.png" width = 500 alt="An Ivy Nunchuck Adapter with a red Nunchuck controller.">
+
+### LipSync
+The LipSync is a mouth-operated sip-and-puff joystick that can act as a USB HID mouse, wireless Bluetooth mouse, or USB HID gamepad. It enables people with disabililites that limit their mobility to control a computer, gaming console, smart phone, or tablet. The joystick mouthpiece has a range of ±10° (about ±1 cm) and requires 50 grams-force to fully deflect. 
+
+<img src="https://github.com/makersmakingchange/LipSync/raw/main/Photos/LipSync-4.jpg" width="500" alt="Picture of Cedar-Mini-Joystick.">
+
+
+
+## Prototypes
+The following designs are still works in progress.
 
 ### Cedar Mini Joystick
 The Cedar Mini Joystick is a small USB joystick that can act as either an USB HID Gamepad or as a USB HID Mouse. It has a relatively small range of motion and a moderately low force required. In Joystick mode, it is compatible with the Xbox Adaptive Controller.
