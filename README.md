@@ -5,29 +5,27 @@ The hardware, software, and documentation are released under licenses compatible
 
 If you have built any of the OpenAT Joysticks, you can provide feedback by filling out this [build feedback questionnaire](https://forms.office.com/Pages/ResponsePage.aspx?id=DsX1YrmQmUWIO5C199RGrFEDZSGvzl5MrPC-gnb-_DxUNkpaSUlVN1NUSDk3RzQ5ODY0MjBVSDYxSy4u). 
 
-A limited number of these devices may be available at no-cost to people with disabilities that reside within Canada. If you think this applies to you, please send an email to info@makersmakingchange.com.
-
 
 ## Open AT Joystick Summary
 ### Completed Designs
 
 | Name | Current Version | Status | MMC Library   | GitHub Repository |
 |-----------------------------------|-----------------|-----------------|------------------|-----------------|
-| [Oak Compact Joystick](#oak-compact-joystick)              | 1.0             | Complete | [Oak Compact Joystick](https://www.makersmakingchange.com/s/product/oak-compact-joystick/01tJR00000092x3YAA) | [Oak-Compact-Joystick](https://github.com/makersmakingchange/Oak-Compact-Joystick)         |  
-| [Spruce Mini Joystick](#spruce-mini-joystick)              | 1.0             | Complete| [Spruce Mini Joystick](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG) | [Spruce-Mini-Joystick](https://github.com/makersmakingchange/Spruce-Mini-Joystick)         |
-| [Ivy Nunchuck Joystick Adapter](#ivy-nunchuck-joystick-adaptor)     | 1.0             | Complete | [Ivy Nunchuck Joystick Adapter](https://www.makersmakingchange.com/s/product/ivy-nunchuck-joystick-adapter/01tJR0000009LBiYAM) | [Ivy-Nunchuck-Joystick-Adapter](https://github.com/makersmakingchange/Ivy-Nunchuck-Joystick-Adapter) |
-| [Forest Joystick Mouse Hub](#forest-joystick-mouse-hub)       | 1.0 | Complete |[Forest Joystick Mouse Hub](https://www.makersmakingchange.com/s/product/forest-joystick-mouse-hub/01tJR000000E4bdYAC) | [Forest-Joystick-Mouse-Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub)    |
+| [Oak Compact Joystick](#oak-compact-joystick) | 1.0 | Complete | [Oak Compact Joystick](https://www.makersmakingchange.com/s/product/oak-compact-joystick/01tJR00000092x3YAA) | [Oak-Compact-Joystick](https://github.com/makersmakingchange/Oak-Compact-Joystick) |  
+| [Spruce Mini Joystick](#spruce-mini-joystick) | 1.0 | Complete| [Spruce Mini Joystick](https://www.makersmakingchange.com/s/product/spruce-mini-joystick/01tJR000000EHqbYAG) | [Spruce-Mini-Joystick](https://github.com/makersmakingchange/Spruce-Mini-Joystick) |
+| [Ivy Nunchuck Joystick Adapter](#ivy-nunchuck-joystick-adaptor) | 1.0 | Complete | [Ivy Nunchuck Joystick Adapter](https://www.makersmakingchange.com/s/product/ivy-nunchuck-joystick-adapter/01tJR0000009LBiYAM) | [Ivy-Nunchuck-Joystick-Adapter](https://github.com/makersmakingchange/Ivy-Nunchuck-Joystick-Adapter) |
+| [Forest Joystick Mouse Hub](#forest-joystick-mouse-hub) | 2.1 | Complete |[Forest Joystick Mouse Hub](https://www.makersmakingchange.com/s/product/forest-joystick-mouse-hub/01tJR000000E4bdYAC) | [Forest-Joystick-Mouse-Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) |
 | [LipSync Sip and Puff Mouth Joystick](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) | 4.0 | Complete | [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) | [LipSync](https://github.com/makersmakingchange/LipSync)|
 
 
 ### In Progress
 | Name | Current Version | Status | MMC Library   | GitHub Repository |
 |-----------------------------------|-----------------|-----------------|------------------|-----------------|
-| [Cedar Mini Joystick](#cedar-mini-joystick)               | 0.9             | Joystick / Mouse MVP              | n/a |[Cedar-Mini-Joystick](https://github.com/makersmakingchange/Cedar-Mini-Joystick)  |
-| [Birch Mini Joystick](#birch-mini-joystick)              | 0.2             | Joystick / Mouse MVP              | n/a |[Birch-Mini-Joystick](https://github.com/makersmakingchange/Birch-Mini-Joystick)|
-| [Wheelchair Bluetooth Joystick Adapter](#wheelchair-bluetooth-joystick-adapter)      | 0.1             | MVP; Requires further development | n/a|[Wheelchair Bluetooth Adapter](https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter)  |
-| OpenAT Joystick Software          | 1.0             | MVP; Requires further development | n/a| n/a
-| Willow Joystick                   | n/a             |  Planned  |                       |  |           |
+| [Cedar Mini Joystick](#cedar-mini-joystick) | 0.9 | Joystick / Mouse MVP | n/a |[Cedar-Mini-Joystick](https://github.com/makersmakingchange/Cedar-Mini-Joystick)  |
+| [Birch Mini Joystick](#birch-mini-joystick) | 0.2 | Joystick / Mouse MVP | n/a |[Birch-Mini-Joystick](https://github.com/makersmakingchange/Birch-Mini-Joystick)|
+| [Wheelchair Bluetooth Joystick Adapter](#wheelchair-bluetooth-joystick-adapter)  | 0.1 | MVP; Requires further development | n/a|[Wheelchair Bluetooth Adapter](https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter)  |
+| OpenAT Joystick Software          | 1.0 | MVP; Requires further development | n/a| n/a
+| Willow Joystick                   | n/a |  Planned  |                       |  |           |
 
 ## Completed Designs
 
@@ -58,7 +56,6 @@ The LipSync is a mouth-operated sip-and-puff joystick that can act as a USB HID 
 <img src="https://github.com/makersmakingchange/LipSync/raw/main/Photos/LipSync-4.jpg" width="500" alt="Picture of Cedar-Mini-Joystick.">
 
 
-
 ## Prototypes
 The following designs are still works in progress.
 
@@ -80,6 +77,7 @@ The Wheelchair Bluetooth Joystick Adapter enables a user to use their powerchair
 This project is funded through the Government of Canada's [Accessible Technology Program (ATP)](https://ised-isde.canada.ca/site/accessible-technology-program/en) with the goal of developing cost effective solutions to help people with disabilities better access the digital economy.
 
 ---
+
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -89,7 +87,7 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
  - Website: [www.MakersMakingChange.com](https://www.makersmakingchange.com/)
  - GitHub: [makersmakingchange](https://github.com/makersmakingchange)
- - Twitter: [@makermakechange](https://twitter.com/makermakechange)
+ - X (formerly Twitter): [@makermakechange](https://twitter.com/makermakechange)
  - Instagram: [@makersmakingchange](https://www.instagram.com/makersmakingchange)
  - Facebook: [makersmakechange](https://www.facebook.com/makersmakechange)
  - LinkedIn: [Neil Squire Society](https://www.linkedin.com/company/neil-squire-society/)
