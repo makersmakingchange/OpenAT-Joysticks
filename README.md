@@ -56,6 +56,10 @@ The LipSync is a mouth-operated sip-and-puff joystick that can act as a USB HID 
 
 <img src="https://github.com/makersmakingchange/LipSync/raw/main/Photos/LipSync-4.jpg" width="500" alt="Picture of Cedar-Mini-Joystick.">
 
+### Redwood Joystick
+The Redwood Joystick is designed for users with gross motor movement and high strength, providing a durable and reliable solution for adaptive gaming and digital access. With its USB connection, it functions seamlessly as a computer mouse or gamepad, offering flexibility to suit your needs. Compatible with our [Oak Compact Joystick toppers](https://github.com/makersmakingchange/Oak-Compact-Joystick/tree/main/Build_Files/3D_Printing_Files/Toppers), it can be customized with options like goalpost or concave designs for personalized comfort. The joystick’s robust construction ensures it withstands heavy use, while its mounting adapters allow secure attachment to 1/4-20 mounting arms and 1-inch RAM mounts, ensuring a stable and accessible setup in any environment.
+
+<img src="https://github.com/makersmakingchange/Redwood_Joystick/blob/main/Photos/Redwood_Joystick.jpg" width="500" alt="Picture of Redwood Joystick.">
 
 ## Prototypes
 The following designs are still works in progress.
