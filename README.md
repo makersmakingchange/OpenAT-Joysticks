@@ -84,7 +84,7 @@ The Wheelchair Bluetooth Joystick Adapter enables a user to use their powerchair
 <img src="https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter/raw/main/Photos/Wheelchair_Bluetooth_Joystick_Adapter.jpg" height="250" alt="Picture of Wheelchair Bluetooth Joystick Adapter.">
 
 ## Acknowledgements
-This project is funded through the Government of Canada's [Accessible Technology Program (ATP)](https://ised-isde.canada.ca/site/accessible-technology-program/en) with the goal of developing cost effective solutions to help people with disabilities better access the digital economy.
+Portions of this project is funded through the Government of Canada's [Accessible Technology Program (ATP)](https://ised-isde.canada.ca/site/accessible-technology-program/en) with the goal of developing cost effective solutions to help people with disabilities better access the digital economy.
 
 ----
 
