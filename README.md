@@ -17,7 +17,7 @@ If you have built any of the OpenAT Joysticks, you can provide feedback by filli
 | [Forest Joystick Mouse Hub](#forest-joystick-mouse-hub) | 2.1 | Complete |[Forest Joystick Mouse Hub](https://www.makersmakingchange.com/s/product/forest-joystick-mouse-hub/01tJR000000E4bdYAC) | [Forest-Joystick-Mouse-Hub](https://github.com/makersmakingchange/Forest-Joystick-Mouse-Hub) |
 | [LipSync Sip and Puff Mouth Joystick](#lipsync) | 4.0 | Complete | [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) | [LipSync](https://github.com/makersmakingchange/LipSync)|
 | [Redwood Joystick](#redwood-joystick) | 1.0 | Complete | [Redwood Joystick](https://www.makersmakingchange.com/s/product/redwood-usb-joystick/01tJR000006skOzYAI) | [Redwood Joystick](https://github.com/makersmakingchange/Redwood_Joystick)|
-| [Willow Joystick](#willow-joystick) | 1.0 | Complete | [Willow Joystick](https://www.makersmakingchange.com/s/product/willow-joystick/01tJR000007iDn7YAE) | [Willow Joystick](https://github.com/makersmakingchange/Willow-Joystick)|
+| [Willow Joystick](#willow-joystick) | 1.0 | Complete | [Willow Joystick](https://www.makersmakingchange.com/product/willow-joystick/01tJR000007iDn7YAE) | [Willow Joystick](https://github.com/makersmakingchange/Willow-Joystick)|
 | [Birch Sliding USB Joystick](#birch-sliding-usb-joystick) | 1.0 | Complete | [Birch Sliding USB Joystick](https://www.makersmakingchange.com/s/product/birch-sliding-usb-joystick/01tJR0000009357YAA) |[Birch-Sliding-USB-Joystick](https://github.com/makersmakingchange/Birch-Sliding-USB-Joystick)|
 
 ### In Progress
