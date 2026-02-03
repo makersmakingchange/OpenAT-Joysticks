@@ -19,11 +19,11 @@ If you have built any of the OpenAT Joysticks, you can provide feedback by filli
 | [Redwood Joystick](#redwood-joystick) | 1.0 | Complete | [Redwood Joystick](https://www.makersmakingchange.com/s/product/redwood-usb-joystick/01tJR000006skOzYAI) | [Redwood Joystick](https://github.com/makersmakingchange/Redwood_Joystick)|
 | [Willow Joystick](#willow-joystick) | 1.0 | Complete | [Willow Joystick](https://www.makersmakingchange.com/product/willow-joystick/01tJR000007iDn7YAE) | [Willow Joystick](https://github.com/makersmakingchange/Willow-Joystick)|
 | [Birch Sliding USB Joystick](#birch-sliding-usb-joystick) | 1.0 | Complete | [Birch Sliding USB Joystick](https://www.makersmakingchange.com/s/product/birch-sliding-usb-joystick/01tJR0000009357YAA) |[Birch-Sliding-USB-Joystick](https://github.com/makersmakingchange/Birch-Sliding-USB-Joystick)|
+| [Cedar Mini USB Joystick](#cedar-mini-USB-joystick) | 1.0 | Complete | Soon |[Cedar-Mini-Joystick](https://github.com/makersmakingchange/Cedar-Mini-USB-Joystick)  |
 
 ### In Progress
 | Name | Current Version | Status | MMC Library   | GitHub Repository |
 |-----------------------------------|-----------------|-----------------|------------------|-----------------|
-| [Cedar USB Joystick](#cedar-mini-joystick) | 0.9 | Joystick / Mouse MVP | n/a |[Cedar-Mini-Joystick](https://github.com/makersmakingchange/Cedar-Mini-Joystick)  |
 | [Wheelchair Bluetooth Joystick Adapter](#wheelchair-bluetooth-joystick-adapter)  | 0.1 | MVP; Requires further development | n/a|[Wheelchair Bluetooth Adapter](https://github.com/makersmakingchange/Wheelchair-Bluetooth-Adapter)  |
 | OpenAT Joystick Software          | 1.0 | MVP; Requires further development | n/a| n/a
 
